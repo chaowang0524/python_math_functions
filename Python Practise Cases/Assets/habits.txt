@@ -1,0 +1,7 @@
+Jake, Basketball, Badminton
+Jonann, Ice hockey, Tennis
+Liz, Fencing, Swimming
+Pete, Bowling, Tennis
+Wayne, Jogging, Swimming
+Green, Badminton, Rowing
+Luis, Rowing, Swimming
