@@ -1,6 +1,4 @@
 import math
-from re import L
-from tkinter import Y
 import statistics as st
 import numpy as np
 
