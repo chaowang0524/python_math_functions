@@ -1,3 +1,0 @@
-Math,David
-Physics,Lee
-Literature,Cara
